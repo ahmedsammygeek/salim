@@ -44,7 +44,7 @@ $ages = array(11 , "name" => "sdsd" , 33 , 44 , 55);
 // 	echo "<br>";
 // }
 
-// foreach($ages as $age = sdsd){
+// foreach($ages as $ajhhkhkhhhkj){
 // echo $age;
 // echo "<br>";
 // }
